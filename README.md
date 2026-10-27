@@ -4,3 +4,6 @@ Das ist ein Rep für die ersten Schritte. Hier geht es um Testzwecke und das ane
 
 3 Wichtige begriffe: 
 Pull-Request, Mona, ReadMe
+
+
+[Für eine Weiteren Commit hab ich diesen Text geschieben]
